@@ -49,7 +49,7 @@ npm install
 node app.js
 
 
-## 👩‍💻 Submitted By
+### Submitted By
 
 **Nirosha V**  
 📧 [niroshavna21@gmail.com](mailto:niroshavna21@gmail.com)  
