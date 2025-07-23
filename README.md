@@ -33,11 +33,16 @@ A backend system to manage spreadsheet-style cell values, formulas, dependencies
 | GET    | `/spreadsheets/:sheetId/cells/:cellId`                 | Get cell state                         |
 | GET    | `/spreadsheets/:sheetId/cells/:cellId/dependents`      | Get dependent cells                    |
 | GET    | `/spreadsheets/:sheetId/cells/:cellId/precedents`      | Get precedent cells                    |
-| GET    | `/spreadsheets/:sheetId/recalculate-order`             | Get recalculation order with topological sort |
+| GET    | `/spreadsheets/:sheetId/recalculate-order?changed_cell_id=A1` | Get recalculation order with topological sort |
 
 ---
 
 ## 📦 How to Run
+
+### Prerequisite:
+- Node.js installed
+
+### Commands:
 
 ```bash
 npm install
