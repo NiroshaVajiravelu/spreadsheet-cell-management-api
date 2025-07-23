@@ -49,10 +49,3 @@ npm install
 node app.js
 
 
-## 👩‍💻 Submitted By
-
-**Nirosha V**  
-📧 [niroshavna21@gmail.com](mailto:niroshavna21@gmail.com)  
-🎯 Think41 – Full Stack Engineer (Entry Level) Interview Submission  
-🗓️ July 23, 2025
-
